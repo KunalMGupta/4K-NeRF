@@ -16,6 +16,7 @@ https://user-images.githubusercontent.com/15401551/206893643-a4c09b2b-fb7b-4af9-
 ```sh
 pip install -r requirements.txt
 conda install pytorch-scatter -c pyg
+apt-get install imagemagick
 ```
 [Pytorch](https://pytorch.org/) and [torch_scatter](https://github.com/rusty1s/pytorch_scatter) installation is machine dependent, please install the correct version for your machine.
 
